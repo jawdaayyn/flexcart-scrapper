@@ -1,0 +1,12 @@
+name:
+    css: 'h2.headline-5'
+    type: Text  
+price:
+    css: 'div.headline-5 div.product-price'
+    type: Text
+brand:
+    css: 'h1.headline-2'
+    type: Text  
+image:
+    css: 'img.css-viwop1.css-m5dkrx'
+    type: Image

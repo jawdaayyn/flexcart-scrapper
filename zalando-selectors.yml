@@ -1,0 +1,12 @@
+name:
+  css: "h1._0Qm8W1 span.EKabf7"
+  type: Text
+price:
+  css: "p._0Qm8W1.uqkIZw"
+  type: Text
+brand:
+  css: "span._0Qm8W1 h3.SZKKsK"
+  type: Text
+image:
+  css: "div.DT5BTM.xyRn36 li.LiPgRT:nth-of-type(1) img._0Qm8W1"
+  type: Image

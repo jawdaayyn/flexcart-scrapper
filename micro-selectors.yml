@@ -1,0 +1,9 @@
+name:
+    css: 'h1.pdp-product-name'
+    type: Text
+price:
+    css: 'div.variation-radio.selected-block span.sales'
+    type: Text
+image:
+    css: 'div.slick-zoom-item.slick-current img.d-block'
+    type: Image

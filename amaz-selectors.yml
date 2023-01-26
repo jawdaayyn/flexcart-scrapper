@@ -1,0 +1,9 @@
+name:
+    css: '#productTitle'
+    type: Text
+price:
+    css: '.a-offscreen'
+    type: Text
+image:
+    css: 'div.imgTagWrapper img.a-dynamic-image'
+    type: Image

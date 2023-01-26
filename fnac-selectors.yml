@@ -1,0 +1,12 @@
+name:
+    css: 'h1.f-productHeader-Title'
+    type: Text
+price:
+    css: 'span.f-faPriceBox__price'
+    type: Text
+brand:
+    css: 'a.f-productHeader-subTitleLink:nth-of-type(2)'
+    type: Text
+image:
+    css: 'img.f-productMedias__viewItem--main'
+    type: Image

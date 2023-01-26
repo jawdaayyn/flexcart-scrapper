@@ -1,0 +1,9 @@
+name:
+    css: 'h1'
+    type: Text
+price:
+    css: 'div.u-text-center span.fpPrice.hideFromPro'
+    type: Text
+image:
+    css: 'img.jsSmallImg'
+    type: Image

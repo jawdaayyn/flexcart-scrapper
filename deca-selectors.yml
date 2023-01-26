@@ -1,0 +1,9 @@
+name:
+    css: 'h1.vtmn-typo_title-5'
+    type: Text
+price:
+    css: 'div.prc__financing div.prc__active-price'
+    type: Text
+image:
+    css: 'div.images section.slide.active img.svelte-w1lrdd'
+    type: Image
